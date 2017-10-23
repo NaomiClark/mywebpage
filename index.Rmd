@@ -4,4 +4,25 @@ title: "Demo Website"
 
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I work with [Lawrence Barsalou](http://supervisor/website)
+I work with [Lawrence Barsalou](https://www.gla.ac.uk/schools/psychology/staff/lawrencebarsalou/).
+
+
+#Professional Skills
+
+This webpage has been created as part of the Professional Skills course.
+
+##Background
+
+I completed my psychology undergraduate at the University of Glasgow, receiving a First class BSc Hons in Psychology.
+
+##My Research Interests
+* Habitual Behaviours
+    * Implementation Intentions
+    * Intention-Behaviour Gap
+    * Mindfulness Behaviour Interventions
+    * Motivational Interviewing
+
+* Mindfulness
+* Self-Control
+    * Grit
+    * Role of Conflict
