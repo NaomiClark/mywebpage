@@ -1,0 +1,9 @@
+name: "Demo Site"  
+author: "Naomi Clark"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly  
+navbar:  
+  title: "Demo Website"
