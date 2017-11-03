@@ -7,7 +7,7 @@ output:
     theme: journal
     css: style.css
 navbar:  
-  title: "Naomi Clark"
+  title: "DEMO Naomi Clark"
   right:
     - text: Publications
       href: Publications.html
