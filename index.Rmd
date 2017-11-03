@@ -41,17 +41,17 @@ through both personal experience and my undergraduate course, I am thoroughly en
 
 
 ##About Me
-I am a keen international solo traveller. I find languages fascinating and love to explore different cultures (which appeals to my inner ethnographer! Scandal!).
+I am a keen international solo traveller. I find languages fascinating and love to explore different cultures (which appeals to my inner ethnographer!).
 
 My interests fuel my travels; my fascination with the German language has led me on many occasions to Germany, inter-railing and volunteering, and my interest in mindfulness steered me into studying meditation at a Buddhist monastery in England.
 
    
 ##Contact
 <img src="images/contact.jpg" style="width: 20%; float: left;
-padding-left: 10px;"> Please feel free to get in touch...
+padding-left: 10px;">     Please feel free to get in touch...
 
-email
+emoji test :envelope: email
 TBC
 
-twitter
+emoji test :baby_chick: twitter
 TBC
