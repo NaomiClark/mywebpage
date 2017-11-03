@@ -8,8 +8,3 @@ output:
     css: style.css
 navbar:  
   title: "DEMO Naomi Clark"
-  right:
-    - text: Publications
-      href: Publications.html
-    - text: GitHub
-      href: https://naomiclark.github.io/mywebpage/
