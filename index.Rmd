@@ -13,14 +13,17 @@ I am a member of the [British Psychological Society](http://beta.bps.org.uk).
 
 ###My Current Research Interests
 * Habitual Behaviours
-    * Implementation Intentions
+    * Behaviour Change
     * Intention-Behaviour Gap
     * Mindfulness Behaviour Interventions
     * Motivational Interviewing
+    * Health Behaviour
 
 * Mindfulness
-    * Cultivating trait mindfulness
+    * Definition of Mindfulness
     * Meditation
+    * Self-Compassion
+    
 * Self-Control
     * Grit
     * Role of Conflict

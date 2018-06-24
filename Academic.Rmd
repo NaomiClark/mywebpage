@@ -7,9 +7,10 @@ title: "Academic"
 
 <img src="images/Academic1.jpg" style="width: 25%; float: right; padding-left: 10px;">
 
-I achieved a First Class BSc Hons Psychology at the University of Glasgow in 2017. Throughout my undergraduate degree, I developed a broad scope of knowledge for psychology as well as detailed understanding in areas of ageing, atypical development, social cognition and positive psychology. In recognition for my efforts not only in Psychology, but across all my additional courses, I received awards and prizes, including bursaries from the School of Modern Languages and Cultures and the School of Physics and Astronomy. 
+*I achieved a First Class BSc Hons Psychology at the University of Glasgow in 2017.* Throughout my undergraduate degree, I developed a broad scope of knowledge for psychology as well as detailed understanding in areas of ageing, atypical development, social cognition and positive psychology. In recognition for my efforts not only in Psychology, but across all my additional courses, I received awards and prizes, including bursaries from the School of Modern Languages and Cultures and the School of Physics and Astronomy. 
 
-Returning to Glasgow as a postgraduate, the Masters in Research Methods of Psychological Science is challenging me to become a better researcher, allowing me to enhance my fluency with R coding, as well as my knowledge of various research methods, both cognitive and qualitative focused, in addition to brain imaging techniques. Having being interested in mindfulness through both personal experience and my undergraduate course, I am enthusiastic about running my own related Masters project.
+*Returning to Glasgow as a postgraduate, my MSc studies in the Research Methods of Psychological Science has challenged me to become a better researcher...*
+Through the course, I have enhanced my R coding proficiency and enhanced my knowledge of both quantitative and qualitative research methods, in addition to brain imaging techniques. Having being interested in mindfulness through both personal experience and my undergraduate course, I am enthusiastic to be running my own Masters project into the effects of mindfulness on behaviour.
 
 <br>
 
