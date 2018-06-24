@@ -2,6 +2,7 @@
 title: "Hello..."
 
 ---
+<br>
 
 <img src="images/Home1.jpg" style="width: 35%; float: right;
 padding-left: 10px;"> My name is Naomi and I am a postgraduate student at the University of Glasgow within the [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
