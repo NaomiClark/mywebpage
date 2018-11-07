@@ -4,16 +4,32 @@ title: "Contact"
 ---
 <br>
 
-*I can be contacted via...*
+If you'd like to get in touch, I can be contacted via... <div class="twitterborder" style="float: right">
+<a class="twitter-timeline" data-width="400" data-height="500" data-dnt="true" data-theme="light" href="https://twitter.com/NaomiClarkPsy?ref_src=twsrc%5Etfw">Tweets by NaomiClarkPsy</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<br>
+<br>
+
+<a href="mailto:2075195c@student.gla.ac.uk"><img src="images/email.png" style="width: 8%"> <a href="https://www.linkedin.com/in/naomi-clark-869500114/"><img src="images/linkedin.png" style="width: 8%"> <a href="https://github.com/NaomiClark"><img src="images/github.png" style="width: 8%"> <a href="https://twitter.com/NaomiClarkPsy"><img src="images/twittericon.png" style="width: 8%">
 
 
-<a href="mailto:2075195c@student.gla.ac.uk"><img src="images/email.png" style="width: 8%"> <a href="https://www.linkedin.com/in/naomi-clark-869500114/"><img src="images/linkedin.png" style="width: 8%"> <a href="https://github.com/NaomiClark"><img src="images/github.png" style="width: 8%">
+
 
 
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/dave-gandy" title="Dave Gandy">Dave Gandy</a> and <a href="https://www.flaticon.com/authors/simpleicon" title="SimpleIcon">SimpleIcon</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+<div>Icons made by <a href="https://www.flaticon.com/authors/dave-gandy" title="Dave Gandy">Dave Gandy</a>, <a href="https://www.flaticon.com/authors/simpleicon" title="SimpleIcon">SimpleIcon</a> and <a href="https://www.flaticon.com/authors/pixel-buddha" title="Pixel Buddha">Pixel Buddha</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
