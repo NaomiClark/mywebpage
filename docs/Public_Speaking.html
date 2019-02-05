@@ -210,6 +210,22 @@ $(document).ready(function () {
 </div>
 
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
+<body>
 <p>Passionate about the sharing and application of research, I continue to regularly engage with the public to bring to life recent findings surrounding Psychology and wellbeing, especially mindfulness.</p>
 <p><br></p>
 <div id="science-communication" class="section level3">
@@ -243,100 +259,17 @@ $(document).ready(function () {
 <p><strong>This workshop is popular with university students!</strong></p>
 <p>Previous workshops have taken place at the University of Glasgow with great success.</p>
 <p><em>Photos to be uploaded soon - please check back later!</em></p>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: Arial;
-}
-
-/* The grid: Four equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 33%;
-  padding: 10px;
-}
-
-/* Style the images inside the grid */
-.column img {
-  opacity: 0.8; 
-  cursor: pointer; 
-}
-
-.column img:hover {
-  opacity: 1;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* The expanding image container */
-.container {
-  position: relative;
-  display: none;
-}
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-</style>
-<div style="text-align:center">
-<h2>
-Workshop Image Gallery
-</h2>
-<p>
-Click on the images below:
-</p>
-</div>
-<!-- The three columns -->
 <div class="row">
 <div class="column">
-<pre><code>&lt;img src=&quot;images/Workshop1_1.JPG&quot; alt=&quot;Speaking and Engaging&quot; style=&quot;width:100%&quot; onclick=&quot;myFunction(this);&quot;&gt;</code></pre>
+<pre><code>&lt;img src=&quot;images/Workshop1.jpg&quot; alt=&quot;Speaking and Engaging&quot; style=&quot;width:100%&quot;&gt;</code></pre>
 </div>
 <div class="column">
-<pre><code>&lt;img src=&quot;images/Workshop2_1.JPG&quot; alt=&quot;A Chocolate Mindfulness Exercise&quot; style=&quot;width:100%&quot; onclick=&quot;myFunction(this);&quot;&gt;</code></pre>
+<pre><code>&lt;img src=&quot;images/Workshop2.jpg&quot; alt=&quot;Chocolate Mindfulnes Exercise&quot; style=&quot;width:100%&quot;&gt;</code></pre>
 </div>
 <div class="column">
-<pre><code>&lt;img src=&quot;images/Workshop3.JPG&quot; alt=&quot;Participants&#39; Reflections&quot; style=&quot;width:100%&quot; onclick=&quot;myFunction(this);&quot;&gt;</code></pre>
+<pre><code>&lt;img src=&quot;images/Workshop3_s.jpg&quot; alt=&quot;Participants&#39; Reflections&quot; style=&quot;width:100%&quot;&gt;</code></pre>
 </div>
 </div>
-<div class="container">
-<span class="closebtn" onclick="this.parentElement.style.display=&#39;none&#39;">×</span> <img id="expandedImg" style="width:100%">
-<div id="imgtext">
-
-</div>
-</div>
-<script>
-function myFunction(imgs) {
-  var expandImg = document.getElementById("expandedImg");
-  var imgText = document.getElementById("imgtext");
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = "block";
-}
-</script>
 <p><br></p>
 </div>
 <div id="advanced-mindfulness-workshops" class="section level4">
@@ -349,6 +282,7 @@ function myFunction(imgs) {
 <div id="inquiries" class="section level3">
 <h3>Inquiries</h3>
 <p>If you have any questions or would like to book a speaking event or workshop, please get in touch!</p>
+</body>
 </div>
 
 

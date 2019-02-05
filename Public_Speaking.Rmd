@@ -1,3 +1,20 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
+
+<body>
 ---
 title: "Public Speaking"
 ---
@@ -52,99 +69,17 @@ Previous workshops have taken place at the University of Glasgow with great succ
 
 *Photos to be uploaded soon - please check back later!*
 
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: Arial;
-}
-
-/* The grid: Four equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 33%;
-  padding: 10px;
-}
-
-/* Style the images inside the grid */
-.column img {
-  opacity: 0.8; 
-  cursor: pointer; 
-}
-
-.column img:hover {
-  opacity: 1;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* The expanding image container */
-.container {
-  position: relative;
-  display: none;
-}
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-</style>
-
-<div style="text-align:center">
-  <h2>Workshop Image Gallery</h2>
-  <p>Click on the images below:</p>
-</div>
-
-<!-- The three columns -->
 <div class="row">
   <div class="column">
-    <img src="images/Workshop1_1.JPG" alt="Speaking and Engaging" style="width:100%" onclick="myFunction(this);">
+    <img src="images/Workshop1.jpg" alt="Speaking and Engaging" style="width:100%">
   </div>
   <div class="column">
-    <img src="images/Workshop2_1.JPG" alt="A Chocolate Mindfulness Exercise" style="width:100%" onclick="myFunction(this);">
+    <img src="images/Workshop2.jpg" alt="Chocolate Mindfulnes Exercise" style="width:100%">
   </div>
   <div class="column">
-    <img src="images/Workshop3.JPG" alt="Participants' Reflections" style="width:100%" onclick="myFunction(this);">
+    <img src="images/Workshop3_s.jpg" alt="Participants' Reflections" style="width:100%">
   </div>
 </div>
-
-<div class="container">
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <img id="expandedImg" style="width:100%">
-  <div id="imgtext"></div>
-</div>
-
-<script>
-function myFunction(imgs) {
-  var expandImg = document.getElementById("expandedImg");
-  var imgText = document.getElementById("imgtext");
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = "block";
-}
-</script>
 
 
 
@@ -159,3 +94,5 @@ In this, we will explore ways to overcome typical hurdles in mindfulness practic
 
 ### Inquiries
 If you have any questions or would like to book a speaking event or workshop, please get in touch!
+
+</body>
