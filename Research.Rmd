@@ -8,15 +8,22 @@ title: "Research"
 
 <img src="images/Research1.jpg" style="width: 25%; float: right; padding-left: 10px;">
 
-*Both mindfulness and behaviour are fields of research that have an incredible ability to contribute to many areas of lived experience...*
+
+### Mindfulness, Wellbeing and Digital Applications
 
 Working within an interdisciplinary team based at the [Centre for Computer Science Education](https://www.gla.ac.uk/research/az/ccse/), University of Glasgow, I pursue the interdisciplinary application of mindfulness in tertiary education, working within Computing Science to assess impact on student learning and experience.
 
 <br>
 
-###Continuing my thesis research...
+### Mindfulness and Behaviour Change
 
 Building upon my undergraduate and postgraduate research projects, I continue to work with my supervisor [Prof. Lawrence Barsalou](https://www.gla.ac.uk/schools/psychology/staff/lawrencebarsalou/) on extending my investigation into the role of behavioural evaluations and self-control on influencing habitual behaviour, and observing the influence of trait mindfulness within this. 
+
+<br>
+
+### Student Wellbeing and Acute Mental Illness
+
+Recently, I have begun working with Dr. Clive Kelly, a consultant in acute medicine at Newcastle University on a variety of topics involving student wellbeing and applications in East Africa.
 
 <br>
 
