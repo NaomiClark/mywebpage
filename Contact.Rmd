@@ -12,7 +12,7 @@ If you'd like to get in touch, I can be contacted via... <div class="twitterbord
 <br>
 <br>
 
-<a href="mailto:2075195c@student.gla.ac.uk"><img src="images/email.png" style="width: 8%"> <a href="https://www.linkedin.com/in/naomi-clark-869500114/"><img src="images/linkedin.png" style="width: 8%"> <a href="https://github.com/NaomiClark"><img src="images/github.png" style="width: 8%"> <a href="https://twitter.com/NaomiClarkPsy"><img src="images/twittericon.png" style="width: 8%">
+<a href="mailto:naomi.e.clark@outlook.com"><img src="images/email.png"> <a href="https://www.linkedin.com/in/naomi-clark-869500114/"><img src="images/linkedin.png"> <a href="https://github.com/NaomiClark"><img src="images/github.png"> <a href="https://twitter.com/NaomiClarkPsy"><img src="images/twittericon.png">
 
 
 
