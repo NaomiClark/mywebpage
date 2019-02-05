@@ -7,7 +7,7 @@ title: "Hello..."
 <img src="images/Home2.jpg" style="width: 35%; float: right;
 padding-left: 10px;"> My name is Naomi and I am a research assistant at the Univeristy of Glasgow, working as part of an interdisciplinary team at the [Centre for Computing Science Education, School of Computing Science](https://www.gla.ac.uk/research/az/ccse/).
 
-In 20128, I completed my Masters in Research Methods of Psychological Science at the University of Glasgow within the [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/) with [Prof. Lawrence Barsalou](https://www.gla.ac.uk/schools/psychology/staff/lawrencebarsalou/) on the effects of mindfulness on habitual behaviours.
+In 2018, I completed my Masters in Research Methods of Psychological Science at the University of Glasgow within the [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/) with [Prof. Lawrence Barsalou](https://www.gla.ac.uk/schools/psychology/staff/lawrencebarsalou/) on the effects of mindfulness on habitual behaviours.
 
 
 <br>
