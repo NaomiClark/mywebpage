@@ -1,20 +1,3 @@
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.row {
-  display: flex;
-}
-
-/* Create three equal columns that sits next to each other */
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
-
-<body>
 ---
 title: "Public Speaking"
 ---
@@ -66,23 +49,6 @@ Aimed at individuals with little or no previous experience, in this workshop, I 
 
 Previous workshops have taken place at the University of Glasgow with great success.
 
-
-*Photos to be uploaded soon - please check back later!*
-
-<div class="row">
-  <div class="column">
-    <img src="images/Workshop1.jpg" alt="Speaking and Engaging" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="images/Workshop2.jpg" alt="Chocolate Mindfulnes Exercise" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="images/Workshop3_s.jpg" alt="Participants' Reflections" style="width:100%">
-  </div>
-</div>
-
-
-
 <br>
 
 #### Advanced Mindfulness Workshops
@@ -92,7 +58,14 @@ In this, we will explore ways to overcome typical hurdles in mindfulness practic
 
 <br>
 
+*An Introductory Workshop at the University of Glasgow*
+
+<img src="images/Workshop1.jpg" style="width:33%">
+<img src="images/Workshop2.jpg" style="width:33%">
+<img src="images/Workshop3_s.jpg" style="width:33%">
+
+<br>
+
 ### Inquiries
 If you have any questions or would like to book a speaking event or workshop, please get in touch!
 
-</body>
