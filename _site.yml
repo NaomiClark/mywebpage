@@ -18,6 +18,6 @@ navbar:
     - text: "Academic"
       href: Academic.html
     - text: "Public Speaking"
-      href: Public Speaking.html
+      href: Public_Speaking.html
     - text: "Contact"
       href: Contact.html
