@@ -17,5 +17,7 @@ navbar:
       href: Research.html
     - text: "Academic"
       href: Academic.html
+    - text: "Public Speaking"
+      href: Public Speaking.html
     - text: "Contact"
       href: Contact.html
