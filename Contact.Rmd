@@ -4,7 +4,7 @@ title: "Contact"
 ---
 <br>
 
-If you'd like to get in touch, I can be contacted via... <div class="twitterborder" style="float: right">
+If you'd like to get in touch, I can be contacted via... <div class="twitterborder" style="float: right" >
 <a class="twitter-timeline" data-width="400" data-height="500" data-dnt="true" data-theme="light" href="https://twitter.com/NaomiClarkPsy?ref_src=twsrc%5Etfw">Tweets by NaomiClarkPsy</a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
@@ -12,15 +12,12 @@ If you'd like to get in touch, I can be contacted via... <div class="twitterbord
 <br>
 <br>
 
-<a href="mailto:naomi.e.clark@outlook.com"><img src="images/email.png"> <a href="https://www.linkedin.com/in/naomi-clark-869500114/"><img src="images/linkedin.png"> <a href="https://github.com/NaomiClark"><img src="images/github.png"> <a href="https://twitter.com/NaomiClarkPsy"><img src="images/twittericon.png">
+<a href="mailto:naomi.e.clark@outlook.com"><img src="images/email.png" width="80"> <a href="https://www.linkedin.com/in/naomi-clark-869500114/"><img src="images/linkedin.png" width="80"> <a href="https://github.com/NaomiClark"><img src="images/github.png" width="80"> <a href="https://twitter.com/NaomiClarkPsy"><img src="images/twittericon.png" width="80">
 
 
 
 
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
