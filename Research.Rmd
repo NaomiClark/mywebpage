@@ -9,7 +9,7 @@ title: "Research"
 <img src="images/Research1.jpg" style="width: 25%; float: right; padding-left: 10px;">
 
 
-### Mindfulness, Wellbeing and Digital Applications
+### Mindfulness, Wellbeing and Digital Intervention Applications
 
 Working within an interdisciplinary team based at the [Centre for Computer Science Education](https://www.gla.ac.uk/research/az/ccse/), University of Glasgow, I pursue the interdisciplinary application of mindfulness in tertiary education, working within Computing Science to assess impact on student learning and experience.
 
@@ -21,9 +21,12 @@ Building upon my undergraduate and postgraduate research projects, I continue to
 
 <br>
 
-### Student Wellbeing and Acute Mental Illness
+### Exploring Connections between Physical and Psychological Wellbeing
 
-Recently, I have begun working with Dr. Clive Kelly, a consultant in acute medicine at Newcastle University on a variety of topics involving student wellbeing and applications in East Africa.
+Recently, I have begun collaborating with Dr. Clive Kelly, a consultant in acute medicine at Newcastle University on a variety of topics involving student wellbeing and applications in East Africa.
+
+Currently, our research involves exploring the relationship between physical and psychological wellbeing, including neurorehabilitation, emotional wellbeing and mindfulness.
+
 
 <br>
 
@@ -45,9 +48,20 @@ Wishing to learn more about the application of mindfulness, I independently sour
 
 ###Conferences Attended
 
+* 2019 – The 12th Annual Learning and Teaching Conference, University of Glasgow, UK
+
 * 2018 – International Conference on Mindfulness, University of Amsterdam, the Netherlands
 
 * 2017 – BPS Scottish Undergraduate Conference, University of Edinburgh, Scotland
 
 * 2015 – BPS Scottish Undergraduate Conference, University of Strathclyde, Scotland
+
+<br>
+
+###Presentations and Papers
+
+Clark, N.E. (2019, April). Mindfulness: Its relevance and recent applications in the modern university. Presentation at The 12th Annual Learning and Teaching Conference, University of Glasgow, UK.
+
+[Multiple papers in preparation.]
+
 
