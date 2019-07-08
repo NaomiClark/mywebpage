@@ -14,7 +14,7 @@ In 2018, I completed my Masters in Research Methods of Psychological Science at 
 
 ###My Research Interests
 
-Although I have interests spanning many areas including cognition and clinical psychology, my current work focuses on mindfulness, with an emphasis on understanding its impact on student wellbeing, behaviour and learning.
+Although I have interests spanning many areas including cognition and clinical psychology, my current work focuses on mindfulness and behaviour change and well-being.
 
 * Mindfulness
     * Issues in the Definition of Mindfulness
@@ -22,6 +22,7 @@ Although I have interests spanning many areas including cognition and clinical p
     * Self-Compassion
     * Impact on Well-Being
     * Physiological Impact of Mindfulness
+<br>
 
 * Habitual Behaviours
     * Behaviour Change
@@ -29,8 +30,10 @@ Although I have interests spanning many areas including cognition and clinical p
     * Mindfulness-Based Behaviour Interventions
     * Health Behaviour
     * Self-Control
+<br>
     
 * Digital and Clinical Applications
     * mHealth and Wearable Technologies (incl. Neurofeedback)
     * Neurorehabilitation
     * Chronic Illness and Recovery
+<br>
