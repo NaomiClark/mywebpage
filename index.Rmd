@@ -20,7 +20,8 @@ Although I have interests spanning many areas including cognition and clinical p
     * Issues in the Definition of Mindfulness
     * Meditation
     * Self-Compassion
-    * Impact on Wellbeing
+    * Impact on Well-Being
+    * Physiological Impact of Mindfulness
 
 * Habitual Behaviours
     * Behaviour Change
@@ -30,5 +31,6 @@ Although I have interests spanning many areas including cognition and clinical p
     * Self-Control
     
 * Digital and Clinical Applications
-    * mHealth/ wearable technologies
-    * Neurorehabilitation, brain plasticity
+    * mHealth and Wearable Technologies (incl. Neurofeedback)
+    * Neurorehabilitation
+    * Chronic Illness and Recovery
