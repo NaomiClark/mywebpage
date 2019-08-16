@@ -1,9 +1,9 @@
 ---
-title: "Academic"
+title: "Education"
 ---
 <br>
 
-##Academic Experience
+##Education and Qualifications
 
 <img src="images/Academic1.jpg" style="width: 25%; float: right; padding-left: 10px;">
 
@@ -20,7 +20,7 @@ Throughout my undergraduate degree, I developed a broad scope of knowledge for p
 <br>
 
 
-###Additional Experience
+###Additional Training
 #### A Peaceful Mind: Mindfulness and Compassion-based Interventions
 During summer 2018, I completed a course on the science of mindfulness and compassion at the [Univeristy of Amsterdam](http://www.uva.nl/en/home). The experience was invaluable, extending my knowledge of the subject amongst like-minded researchers and esteemed academics and professionals in the field.
 
