@@ -1,0 +1,16 @@
+---
+title: "Blog"
+---
+
+<br>
+
+##HEADS: UP in the News!
+#### *6th Oct 2019*
+
+<img src="images/newspaper.jpeg" style="width: 50%; float: center; padding-left: 10px;">
+
+It has been great to see [HEADS: UP study](https://www.gcu.ac.uk/hls/research/researchgroups/livingwithstroke/keyprojectsandexpertise/headsup/) in the news! Let's get the word out there about the importance of mental health after stroke.
+
+Read the article in [The Herald](https://www.heraldscotland.com/news/17948363.glasgow-stroke-study-uses-mindfulness-manage-anxiety-depression/).
+
+Read the article in [The Scotsman](https://www.scotsman.com/health/glasgow-university-to-study-benefits-of-mindfulness-to-ease-mood-disorders-1-5018692).

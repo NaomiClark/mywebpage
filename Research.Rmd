@@ -9,6 +9,12 @@ title: "Research"
 <img src="images/Research1.jpg" style="width: 25%; float: right; padding-left: 10px;">
 
 
+### Mindfulness, Wellbeing and Stroke
+
+As part of the [HEADS: UP (Helping Ease Anxiety and Depression after Stroke) study](https://www.gcu.ac.uk/hls/research/researchgroups/livingwithstroke/keyprojectsandexpertise/headsup/), I work with various academics and researchers to deliver a mindfulness-based intervention to reduce anxiety and depression in stroke survivors. I regularly engage with participants and ensure the successful delivery of the sessions, as well as collecting and analysing data, constructing and managing various databases and effective project planning.
+
+<br>
+
 ### Mindfulness, Wellbeing and Digital Intervention Applications
 
 Working within an interdisciplinary team based at the [Centre for Computer Science Education](https://www.gla.ac.uk/research/az/ccse/), University of Glasgow, I pursue the interdisciplinary application of mindfulness in tertiary education, working within Computing Science to assess impact on student learning and experience.

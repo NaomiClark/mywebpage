@@ -12,6 +12,7 @@ title: "Education"
 Returning to my alma mater in 2017, the University of Glasgow, I recently completed my MSc studies in the Research Methods of Psychological Science, achieving a Distinction.
 Undertaking this course has made me an effective researcher, enhancing my R coding proficiency and my knowledge of both quantitative and qualitative research methods, in addition to brain imaging techniques. Having being interested in mindfulness through both personal experience and my undergraduate course, I was enthusiastic to be running my own Masters project into the effects of mindfulness on behaviour and found the experience extremely rewarding.
 
+<br>
 
 ### BSc Hons in Psychology - First Class
 I achieved a First Class BSc Hons Psychology at the University of Glasgow in 2017.

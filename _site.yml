@@ -17,7 +17,9 @@ navbar:
       href: Research.html
     - text: "Education"
       href: Academic.html
-    - text: "Public Speaking"
+    - text: "Sci Comm"
       href: Public_Speaking.html
+    - text: "Blog"
+      href: Blog.html
     - text: "Contact"
       href: Contact.html
